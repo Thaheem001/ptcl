@@ -52,7 +52,7 @@ header .main-img{
 }
 #home-page{
     height: 100vh;
-    background-image: url(../img/banner_blank.png);
+    background-image: url(banner_blank.png);
     background-size: cover;
     animation: my-first-ani 4s both;
     margin-top: -60px;
@@ -100,7 +100,7 @@ header .main-img{
 }
 #about{
     padding: 125px 0;
-    background-image: url(../img/about-bg.png);
+    background-image: url(about-bg.png);
     background-size: cover;
     background-attachment: fixed;
     animation: my-first-ani 15s both;
@@ -115,7 +115,7 @@ header .main-img{
 .about-flash img{width: 100%;}
 #coverage{
     padding: 125px 0px;
-    background-image: url(../img/coverage-bg.png);
+    background-image: url(coverage-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -129,7 +129,7 @@ header .main-img{
 }
 #packages{
     padding: 125px 0px;
-    background-image: url(../img/packages-bg.png);
+    background-image: url(packages-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -193,7 +193,7 @@ header .main-img{
     
 }
 #support{
-    background-image: url(../img/support-bg.png);
+    background-image: url(support-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -251,7 +251,7 @@ header .main-img{
 }
 #support .box:hover .call-admin{opacity: 1;}
 #wifi{
-    background-image: url(../img/wifi-bg.png);
+    background-image: url(wifi-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -279,7 +279,7 @@ header .main-img{
 footer{
     padding: 100px 0px;
     text-align: center;
-    background-image: url(../img/footer-bg.png);
+    background-image: url(footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -319,7 +319,7 @@ footer{
     body{overflow-x: hidden;}
     header{height: auto;}
     nav ul{display: inline-block;}
-    #home-page{background-image: url(../img/banner_blank_mob.png);}
+    #home-page{background-image: url(banner_blank_mob.png);}
     nav ul{ width: 95%; margin-top: 15px; text-align: center;}
     nav ul li{margin: 10px auto; border-bottom: 2px solid rgb(0, 0, 0,0.1); padding-bottom: 20px;}
     nav ul li a{font-size: 17px; width: 95%;  }
